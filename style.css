@@ -1,4 +1,4 @@
-.traffic-light {
+.light {
   height: 690px;
   width: 250px;
   border: 1px solid;
@@ -6,7 +6,7 @@
   }
 
 
-.light{
+.circle{
   border-radius: 50%;
   height: 200px;
   width: 200px;
