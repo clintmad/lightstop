@@ -1,0 +1,53 @@
+.light {
+  height: 690px;
+  width: 250px;
+  border: 1px solid;
+  background-color:black;
+  }
+
+
+.circle{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin: 24px;
+}
+
+.red{
+  background-color: #b30000;
+}
+
+.yellow{
+  background-color: #cccc00;
+}
+
+.green{
+  background-color: green;
+
+}
+
+.pole {
+  height: 100px;
+  width: 50px;
+  background-color: black;
+  margin-left: 100px;
+}
+
+.red:hover{
+  background-color: red;
+  box-shadow: 0px 0px 150px red;
+}
+
+.yellow:hover{
+  background-color: yellow;
+  box-shadow: 0px 0px 150px yellow;
+}
+
+.green:hover{
+  background-color: lime;
+  box-shadow: 0px 0px 150px lime;
+  background-image: url("");
+  
+  
+  }
+
